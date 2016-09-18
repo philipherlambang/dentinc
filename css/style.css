@@ -227,7 +227,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (max-width: 992px) {
   #fh5co-header .navbar-brand {
-    padding-left: 55px !important;
+    /*padding-left: 55px !important;*/
     padding-right: 0 !important;
   }
   #fh5co-header .navbar-brand:after, #fh5co-header .navbar-brand:before {
